@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**kforkris/kforkris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **React Native Apps**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Expo, NativeBase, Firebase**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **React, JavaScript, Tailwind, Zustand**
+
+- 📫 How to reach me **krishna@example.com**
+
+- 📄 Know about my experiences: [Resume](https://link-to-resume.com)
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,nodejs,html,css,tailwind,firebase,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-dev&show_icons=true&theme=radical" alt="krishna" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-dev&theme=radical" alt="krishna" />
+</p>
