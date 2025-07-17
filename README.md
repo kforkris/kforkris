@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hey there, I'm Krishna Upmanyu
 
-- 🔭 I’m currently working on **React Native Apps**
+## 💼 Frontend Developer | React.js | React Native | AWS
 
-- 🌱 I’m currently learning **Expo, NativeBase, Firebase**
-
-- 💬 Ask me about **React, JavaScript, Tailwind, Zustand**
-
-- 📫 How to reach me **krishna@example.com**
-
-- 📄 Know about my experiences: [Resume](https://link-to-resume.com)
+I'm a passionate frontend engineer with 1+ years of experience in building modern web & mobile apps. Currently exploring cross-platform magic with React Native 🚀
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,nodejs,html,css,tailwind,firebase,figma" />
-</p>
+### 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript, TypeScript, Tailwind CSS
+- **Mobile:** React Native (iOS + Android)
+- **Cloud:** AWS (S3, EC2, Lambda - thik thak level)
+- **Tools:** Git, GitHub, VSCode, Figma, Postman, Chrome DevTools
+- **Others:** Zustand, Redux, React Hook Form, MUI
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-dev&show_icons=true&theme=radical" alt="krishna" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-dev&theme=radical" alt="krishna" />
-</p>
+### 📈 GitHub Stats
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kforkris&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's connect:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 🧑‍💻 Portfolio: Coming Soon!
+
+> “Code with intention. Build with purpose.” ✨
